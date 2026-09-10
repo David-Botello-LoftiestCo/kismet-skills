@@ -1,0 +1,33 @@
+# Dependencias
+node_modules/
+.pnp/
+.pnp.js
+
+# Builds
+dist/
+build/
+.next/
+out/
+
+# Entorno y secretos — NUNCA commitear
+.env
+.env.*
+!.env.example
+*.local
+
+# Supabase
+supabase/.temp/
+supabase/.branches/
+.supabase/
+
+# Deploy / plataformas
+.vercel/
+.wrangler/
+.cloudflare/
+
+# Sistema / editor
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/

@@ -1,0 +1,10 @@
+﻿{
+  "name": "kismet-brand",
+  "displayName": "Kismet Brand",
+  "description": "Sistema completo de identidad de marca Kismet para generación de piezas gráficas, UI, web, redes sociales y comunicación visual. Incluye SVG embebidos del logotipo y personaje Kisma, fuentes Chillax y Synonym en base64, paleta completa con valores HEX/RGB/HSL/CMYK, sistema de componentes UI, y guía de voz y tono.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Loftiest Corporation"
+  },
+  "keywords": ["kismet", "branding", "identidad", "diseño", "salud mental", "UI", "componentes", "tipografía"]
+}

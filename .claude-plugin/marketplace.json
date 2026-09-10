@@ -1,0 +1,17 @@
+{
+  "name": "kismet-skills",
+  "displayName": "Kismet Skills Marketplace",
+  "description": "Marketplace oficial de skills para agentes de inteligencia artificial de Kismet.",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Kismet",
+    "email": "ops@kismet.com"
+  },
+  "plugins": [
+    {
+      "name": "kismet-brand",
+      "source": "./plugins/kismet-brand",
+      "description": "Aplica la identidad visual corporativa de la marca Kismet en cualquier entregable"
+    }
+  ]
+}
