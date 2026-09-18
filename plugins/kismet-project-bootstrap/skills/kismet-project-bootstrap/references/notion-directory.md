@@ -6,7 +6,9 @@ Este archivo mapea los recursos del workspace de Notion de Kismet con sus IDs, p
 
 ## Página principal
 
-- **KISMET | Main Page**: `pendiente`
+- **Kismet Dashboard Maestro**: `2963026c3bd045b6bd2a578652ae67bc`
+  - **URL**: https://app.notion.com/p/Kismet-Dashboard-Maestro-2963026c3bd045b6bd2a578652ae67bc
+  - **Cuándo consultar**: punto de entrada al workspace; navega desde aquí a las páginas y bases de datos listadas abajo mientras se van creando
 
 ## Knowledge bases normativas y de cumplimiento
 

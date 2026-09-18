@@ -30,3 +30,7 @@ Cada commit al repo queda disponible al equipo tras correr este comando.
 3. Modifica o agrega plugins bajo `plugins/`
 4. PR a `main`
 5. Al merge, anuncia al equipo que corran `/plugin marketplace update`
+
+## Créditos
+
+Estas skills son propiedad de **Kismet**: identidad de marca, contenido y criterios normativos le pertenecen. **Loftiest Corporation** actúa únicamente como proveedor de código para el desarrollo de la plataforma.
