@@ -79,7 +79,7 @@ Usa la herramienta de Notion para consultar las knowledge bases relevantes. No d
 
 ### Directorio de Knowledge Bases en Notion
 
-Lee `references/notion-directory.md` para el mapeo de recursos. El workspace de Notion de Kismet está en construcción: el archivo lista la estructura objetivo con IDs pendientes de completar conforme se cree cada página o base. Resumen rápido:
+Lee `references/notion-directory.md` para el mapeo de recursos. El workspace de Notion de Kismet está construído: el archivo lista la estructura objetivo con IDs pendientes de completar conforme se cree cada página o base. Resumen rápido:
 
 | Recurso | Cuándo consultar |
 |---|---|
