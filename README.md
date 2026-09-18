@@ -13,6 +13,7 @@ Marketplace oficial de skills para agentes de inteligencia artificial para el eq
 | Plugin | Descripción |
 |---|---|
 | **kismet-brand** | Identidad visual corporativa de la marca Kismet aplicada a cualquier entregable. |
+| **kismet-project-bootstrap** | Inicializa proyectos nuevos de Kismet con contexto operativo, marco normativo (telesalud, datos de salud, pagos) y knowledge base corporativo en Notion. |
 
 ## Actualización
 

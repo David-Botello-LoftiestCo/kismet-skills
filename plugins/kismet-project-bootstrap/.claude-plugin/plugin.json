@@ -1,0 +1,10 @@
+{
+  "name": "kismet-project-bootstrap",
+  "displayName": "Kismet Project Bootstrap",
+  "description": "Inicializa cualquier proyecto nuevo de Kismet con el contexto operativo, marco normativo de telesalud/datos/pagos, y el knowledge base corporativo en Notion. Orquesta al resto de las skills de Kismet (kismet-brand, generación de documentos) según el tipo de proyecto detectado.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Kismet"
+  },
+  "keywords": ["kismet", "bootstrap", "proyecto", "onboarding", "telesalud", "salud mental", "normatividad", "marketplace", "psicologia"]
+}

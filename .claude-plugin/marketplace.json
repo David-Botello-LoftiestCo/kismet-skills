@@ -12,6 +12,11 @@
       "name": "kismet-brand",
       "source": "./plugins/kismet-brand",
       "description": "Aplica la identidad visual corporativa de la marca Kismet en cualquier entregable"
+    },
+    {
+      "name": "kismet-project-bootstrap",
+      "source": "./plugins/kismet-project-bootstrap",
+      "description": "Inicializa proyectos nuevos de Kismet con contexto operativo, marco normativo (telesalud, datos de salud, pagos) y knowledge base corporativo en Notion."
     }
   ]
 }
